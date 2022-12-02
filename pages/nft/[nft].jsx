@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styles from "../../styles/Home.module.css";
-import image from "../../src/assets/3.png";
+import image from "../../src/assets/nft-art1.png";
 import Image from "next/image";
 import { useAccount, useProvider, useSigner, useContract } from "wagmi";
 import { ethers } from "ethers";
@@ -74,8 +74,7 @@ function NFT(props) {
                     <h2>NFT Description</h2>
                     <h4 className={styles.nft_desc}>
                         {props.desc}
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta
-                        nobis, tempora deleniti itaque provident, corrupti explicabo veniam
+                        A description of the artwork whose fraction want to be sold
                     </h4>
 
                     <div className={styles.buy}>

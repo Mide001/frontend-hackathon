@@ -10,7 +10,7 @@ function Card(props) {
     return (
         <div className={styles.card}>
             <div className={styles.image}>
-                <Image className={styles.image} src={image} alt="nft image" width={300} height={220}></Image>
+                <Image className={styles.image} src={image} alt="nft image" width={"300px"} height={"220px"}></Image>
             </div>
             <div className={styles.card_content}>
                 <h3>
