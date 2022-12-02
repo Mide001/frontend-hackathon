@@ -1,6 +1,8 @@
 import  { ConnectButton } from "@rainbow-me/rainbowkit";
 import styles from "../css/Layout.module.css";
 import logo from "../assets/ophir-remove.png";
+import polygon from "../assets/polygon.jpg";
+import nftStorage from "../assets/nftstorage.svg"; 
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
@@ -42,6 +44,18 @@ export default function Layout({ children }) {
                 </button>
             </nav>
             {children}
+            <div className={styles.sponsors}>
+                <h2>Powered By</h2>
+
+                <div className={styles.sponsor_images}>
+                    <div className={styles.sponsor}>
+                        <Image src={polygon} />
+                    </div>
+                    <div className={styles.sponsor}>
+                        <Image src={nftStorage} />
+                    </div>
+                </div>
+            </div>
             <footer className={styles.footer}>
                 <h4>
                     Built by {""}

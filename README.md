@@ -1,36 +1,65 @@
-## Getting Started
+ArtBloc 
 
-Create a project using this example:
+ArtBloc is the bloc for the skilled and thriving creatives.
 
-```bash
-npx thirdweb create --template next-javascript-starter
-```
+ArtBloc serves as a NFT marketplace for digital creators to enjoy a mix of Web3 decentralization and ownership functionalities in their artworks.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+With ArtBloc, creators can mint their artworks as NFTs for proof, and also decide to sell the NFT in Fractions.
 
-On `pages/_app.js`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+Creators can also fractionalize their art (if they choose to) and earn a wholesome amount all within ArtBloc.
 
-### Deploy to IPFS
 
-Deploy a copy of your application to IPFS using the following command:
+Project Features 
 
-```bash
-yarn deploy
-```
+Mint NFT as Digital Proof for your Artwork (in seconds)
+Total Control of NFT sale and Fractionalized tokens
+Artworks enjoy decentralized storage (via IPFS integration)
+Artlovers own a piece of the Art in Fractionalized NFTs.
+Profit Opportunities for Art Lovers
+Buy NFT fractions and trade-off within the same platform
 
-## Learn More
 
-To learn more about thirdweb and Next.js, take a look at the following resources:
+Our Building Process
 
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+In building this Project, we arrived at (not sure how you did, but here is a draft) the following pages for in the application:
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
 
-## Join our Discord!
+A Landing Page, listing all the features of the platform and clarifications for end users
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
-# frontend-hackathon
+A Create page, where Creatives get to upload their art after filling a form
+
+A Mini-Marketplace, where all the live tokens and NFTs are listed here for selling and trading
+
+The Accounts section, where users get to see all their NFTs and can choose how they want to list their NFTs in the marketplace, choosing from two options, either publish as NFT or publish as a Fractionalized NFT - from the same page and even control the sale of these assets.
+
+
+
+Technologies Used
+
+Frontend
+Nextjs
+Photoshop
+Lighthouse - Store data permanently on IPFS after getting signed by the user 
+https://lighthouse-1.gitbook.io/lighthouse-1/lighthouse-sdk/code-examples/browser-frontend/browser 
+
+nft.storage - store the details of the NFT on IPFS directly
+ThirdwebSDK - Used to integrate our frontend with the blockchain and the contracts and implement the functionality
+
+Back-end
+Solidity
+Thirdweb
+Hardhat/Truffle/Thirdweb Deploy 
+Eslint
+IPFS - as decentralized storage for art data
+
+Contracts 
+
+
+
+Challenges We ran into
+
+
+What we learnt:
+
+
+Team Members

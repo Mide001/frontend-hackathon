@@ -1,9 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
-import img2 from "../src/assets/nft1.webp";
-import img1 from "../src/assets/nft2.webp";
-import img3 from "../src/assets/nft3.webp";
 import image from "../src/assets/ArtBloc.jpg";
 import Link from "next/link";
 
@@ -41,13 +38,13 @@ function Home() {
             Own a art piece, NFT just for fractions of the cost{" "}
           </div>
           <div className={styles.feature}>
-            Earn a wholesome profit from holding tokens for a short period of time
+            All of this on Polygon Main Chain
           </div>
           <div className={styles.feature}>
             Mint Digital Proof as NFT for your Artwork for free in under 60 secs on ArtBloc
           </div>
           <div className={styles.feature}>
-            Control the Sale of NFT and tokens for your artwork
+            Get music cover as NFT dropped in your wallet
           </div>
           <div className={styles.feature}>
             Buy tokens/fractions of the NFTs and NFTs at the same platform

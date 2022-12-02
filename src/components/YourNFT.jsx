@@ -3,7 +3,6 @@ import styles from "../css/Component.module.css";
 import styles2 from "../../styles/Home.module.css";
 import Image from "next/image";
 import Link from "next/link";
-import image_ from "../assets/nft3.jpeg";
 import { TOKENNFT_CONTRACT_ADDRESS, TOKEN_ABI } from "../constants";
 import { id, isAddress } from "ethers/lib/utils";
 import { useProvider, useSigner, useContract, useAccount } from "wagmi";
