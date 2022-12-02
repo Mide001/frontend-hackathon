@@ -35,7 +35,7 @@ function Home() {
 
         <div className={styles.collection}>
           <div className={styles.feature}>
-            All assets stored on decentralized storage like IPFS{" "}
+            All assets and artwork are stored on decentralized storage like IPFS{" "}
           </div>
           <div className={styles.feature}>
             Own a art piece, NFT just for fractions of the cost{" "}
@@ -44,7 +44,7 @@ function Home() {
             Earn a wholesome profit from holding tokens for a short period of time
           </div>
           <div className={styles.feature}>
-            Mint Digital Proof as NFT for your Artwork for free in under 60 secs
+            Mint Digital Proof as NFT for your Artwork for free in under 60 secs on ArtBloc
           </div>
           <div className={styles.feature}>
             Control the Sale of NFT and tokens for your artwork

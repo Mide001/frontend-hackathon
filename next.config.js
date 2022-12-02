@@ -2,13 +2,13 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    // here you can add the url's that you are planning 
-   // to use inside your next/image.
-    domains: ["ipfs.io"],
-    protocol: 'https',
-    hostname: 'ipfs.io',
-    port: '',
-  },
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**.ipfs.io',
+      }
+    ]
+  }
 };
 
 module.exports = nextConfig;

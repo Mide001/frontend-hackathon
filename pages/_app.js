@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <ThirdwebProvider desiredChainId={desiredChainId}>
       <Head>
-        <title>Creatives</title>
+        <title>ArtBloc</title>
         <meta name="description" content="Mint NFT as a proof for your digitial artwork in simple steps and sell it in form of fractions directly on the platform to earn from it. Token Holders earn a profit by holding the tokens for a period of time" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

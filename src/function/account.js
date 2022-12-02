@@ -1,5 +1,5 @@
 import { Network, Alchemy } from "alchemy-sdk";
-import { NFT_CONTRACT_ADDRESS } from "../constants";
+import { NFT_FRACTION_ADDRESS } from "../constants";
 
 const settings = {
     apiKey: "gKphJuDmAA0pE53_m70VW5fdljKjVVLj",
@@ -27,7 +27,7 @@ export const Account = async () => {
         const filteredNFTs = [];
         for (const nft of nftsForOwner.ownedNfts) {
             console.log("contract address: ", nft.contract.address);
-            if(nft.contract.address == NFT_CONTRACT_ADDRESS) {
+            if(nft.contract.address == NFT_FRACTION_ADDRESS) {
                 filteredNFTs.push(nft);
             }
         }
