@@ -53,7 +53,12 @@ Eslint
 IPFS - as decentralized storage for art data
 
 Contracts 
+Repository Link - https://github.com/Mide001/polygon-africa-hackathon
+TokenNFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
 
+NFTFraction - https://mumbai.polygonscan.com/address/0xb6EC3aCfa7027Df9831661Ce392Fadd31615A75e#contracts
+
+Creatives - https://mumbai.polygonscan.com/address/0xA0Cf7646a1556F4C3821390263a1aCf8EdEd7E24#code
 
 
 Challenges We ran into
