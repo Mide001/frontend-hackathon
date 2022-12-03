@@ -1,3 +1,5 @@
+![artbloc-logo1](https://user-images.githubusercontent.com/88292834/205462218-f81bd1e3-75d0-4f02-819f-265a8cbd3799.png)
+
 # ArtBloc 
 
 **ArtBloc** is the bloc for the skilled and thriving creatives.
@@ -74,6 +76,8 @@ Repository Link - https://github.com/Mide001/polygon-africa-hackathon
 TOKEN_NFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
 
 NFTFraction - https://mumbai.polygonscan.com/address/0xb6EC3aCfa7027Df9831661Ce392Fadd31615A75e#contracts
+
+Creatives - https://mumbai.polygonscan.com/address/0xA0Cf7646a1556F4C3821390263a1aCf8EdEd7E24#code
 
 The backend of our project thrives on 4 major solidity contracts:
 
