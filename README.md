@@ -56,16 +56,7 @@ Hardhat/Truffle/Thirdweb Deploy
 Eslint
 IPFS - as decentralized storage for art data
 
-Contracts 
->>>>>>> 3624df46720a34efe738c1e3f88de9e8aa4f558f
 
-Repository Link - https://github.com/Mide001/polygon-africa-hackathon
-
-TOKEN_NFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
-
-NFTFraction - https://mumbai.polygonscan.com/address/0xb6EC3aCfa7027Df9831661Ce392Fadd31615A75e#contracts
-
-TokenNFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
 =======
 ### Back-end
 - Solidity
@@ -77,6 +68,12 @@ TokenNFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50
 
 
 ## Contracts 
+
+Repository Link - https://github.com/Mide001/polygon-africa-hackathon
+
+TOKEN_NFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
+
+NFTFraction - https://mumbai.polygonscan.com/address/0xb6EC3aCfa7027Df9831661Ce392Fadd31615A75e#contracts
 
 The backend of our project thrives on 4 major solidity contracts:
 
