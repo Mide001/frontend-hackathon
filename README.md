@@ -9,7 +9,7 @@ With **ArtBloc**, creators can mint their artworks as NFTs for proof, and also d
 Creators can also fractionalize their art (if they choose to) and earn a wholesome amount all within **ArtBloc**.
 
 > Project Live Link: 
-
+https://polygon-africa-hackathon.netlify.app/
 
 ## Project Features 
 
@@ -57,7 +57,14 @@ Eslint
 IPFS - as decentralized storage for art data
 
 Contracts 
+>>>>>>> 3624df46720a34efe738c1e3f88de9e8aa4f558f
+
 Repository Link - https://github.com/Mide001/polygon-africa-hackathon
+
+TOKEN_NFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
+
+NFTFraction - https://mumbai.polygonscan.com/address/0xb6EC3aCfa7027Df9831661Ce392Fadd31615A75e#contracts
+
 TokenNFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
 =======
 ### Back-end
@@ -67,12 +74,7 @@ TokenNFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50
 - Eslint (Used earlier on to lint our code) 
 - IPFS - as decentralized storage for art data
 - Prettier Formatter
->>>>>>> 3624df46720a34efe738c1e3f88de9e8aa4f558f
-TOKEN_NFT - https://mumbai.polygonscan.com/address/0xf64bB4c7eaaB6dD61b58Ce68eF50495eDBC36D18#code
 
-NFTFraction - https://mumbai.polygonscan.com/address/0xb6EC3aCfa7027Df9831661Ce392Fadd31615A75e#contracts
-
-Creatives - https://mumbai.polygonscan.com/address/0xA0Cf7646a1556F4C3821390263a1aCf8EdEd7E24#code
 
 ## Contracts 
 
