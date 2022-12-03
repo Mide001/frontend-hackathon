@@ -1,5 +1,6 @@
 import "../styles/globals.css";
 import Layout from "../src/components/Layout";
+import favicon from "../src/assets/artbloc-logo1.png"
 import "@rainbow-me/rainbowkit/styles.css";
 import { getDefaultWallets, RainbowKitProvider } from "@rainbow-me/rainbowkit";
 import { chain, configureChains, createClient, WagmiConfig } from "wagmi";
@@ -29,7 +30,7 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>ArtBloc</title>
         <meta name="description" content="Mint NFT as a proof for your digitial artwork in simple steps and sell it in form of fractions directly on the platform to earn from it. Token Holders earn a profit by holding the tokens for a period of time" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="../src/assets/artbloc-logo1.png" />
       </Head>
       <WagmiConfig client={wagmiClient}>
         <RainbowKitProvider chains={chains}>

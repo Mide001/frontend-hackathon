@@ -1,6 +1,6 @@
 import  { ConnectButton } from "@rainbow-me/rainbowkit";
 import styles from "../css/Layout.module.css";
-import logo from "../assets/artbloc-logo.png";
+import logo from "../assets/artbloc-logo1.png";
 import polygon from "../assets/polygon-sponsor.png";
 import nftStorage from "../assets/nftstorage.svg"; 
 import Image from "next/image";
